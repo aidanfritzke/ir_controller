@@ -28,6 +28,7 @@ demo_vids holds demo vids
 Schematic:
 
 <img width="709" height="117" alt="ir_remote_sch_-" src="https://github.com/user-attachments/assets/139f1299-49ca-4304-8369-296564baa565" />
+CP2102_TX idles at +3.3V
 
 Toggle demo:
 

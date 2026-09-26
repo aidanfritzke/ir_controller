@@ -4,7 +4,7 @@ i built this because i did not want to let the TUYO "Smart Home" app connect to 
 
 the .bat script is configured to run every morning via windows task scheduler to turn on a smart lamp. i was tired of waking up in the dark
 
-
+-----------------------------------------------------------------
 
 76800 baud, 8N1 — 0x55 = 38.4 kHz carrier (mark), 0xFF = idle (space)
 
@@ -12,7 +12,7 @@ the .bat script is configured to run every morning via windows task scheduler to
 
 NEC 0x00 is the power toggle command for this paticular lamp
 
-
+-----------------------------------------------------------------
 
 alt_scripts holds other .bat files that control the lamp
 
@@ -22,6 +22,7 @@ single holds .bin of NEC commands 0x00 - 0xFF, as well as a 10 second long 38.4k
 
 demo_vids holds demo vids
 
+-----------------------------------------------------------------
 
 Toggle demo:
 

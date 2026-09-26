@@ -18,7 +18,8 @@ alt_scripts holds other .bat files that control the lamp
 
 sch holds schemtics
 
-single holds .bin of NEC commands 0x00 - 0xFF, as well as a 10 second long 38.4kHz carrier wave .bin (Claude generated these)
+single holds .bin of NEC commands 0x00 - 0xFF, as well as a 10 second long 38.4kHz carrier wave .bin
+(Claude generated these)
 
 demo_vids holds demo vids
 

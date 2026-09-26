@@ -25,6 +25,10 @@ demo_vids holds demo vids
 
 -----------------------------------------------------------------
 
+Schematic:
+
+<img width="709" height="117" alt="ir_remote_sch_-" src="https://github.com/user-attachments/assets/139f1299-49ca-4304-8369-296564baa565" />
+
 Toggle demo:
 
 https://github.com/user-attachments/assets/d9ead0c6-5c90-4590-a9ae-0ad99601a6df

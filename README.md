@@ -13,9 +13,13 @@ NEC 0x00 is the power toggle command for this paticular lamp
 
 
 alt_scripts holds other .bat files that control the lamp
+
 sch holds schemtics
+
 single holds .bin of NEC commands 0x00 - 0xFF, as well as a 10 second long 38.4kHz carrier wave .bin
+
 demo_vids holds demo vids
+
 
 Toggle demo:
 
